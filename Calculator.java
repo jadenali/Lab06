@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Calculator {
-    private static double Output;
+    private static double Output;                          //adding a comment in Github
 
     public static void main(String [] args) {
         Scanner scn = new Scanner(System.in);
